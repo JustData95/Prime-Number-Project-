@@ -17,7 +17,7 @@ The purpose of this project was to create a prime number generator that could pr
 •	Technical write-up
 
 # Essay Disclaimer 
-My essay has a lot of errors and perhaps doesn't make sense. Figures 3 and 7 are not my code, it was found on stack overflow.  It is my first attempt to write a technical document. Additionally, here are the things that I I can improve on for my essay for my next project: 
+My essay has a lot of errors and perhaps doesn't make sense. Figures 3 and 7 are not my code, it was found on stack overflow.  It is my first attempt to write a technical document. Additionally, here are the things that I I can improve on for my essay in next project: 
 
   **1.** Proper Havard Referencing
   
